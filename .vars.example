@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# alpaca trading account api (paper)
+export APCA_API_ENDPOINT=https://paper-api.alpaca.markets
+export APCA_API_KEY_ID=xxxxxxxxxxxxxxxxx
+export APCA_API_SECRET_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
